@@ -1,0 +1,7 @@
+#Thu Apr 06 09:25:02 ICT 2017
+base.0=C\:\\Users\\ANGGA\\StudioProjects\\Broducation\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_46045692eb9c6ad6e8d4e1e09b7f52f68a393322
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\ANGGA\\StudioProjects\\Broducation\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_bf8a7ab80505ae7f303bfb28e2ca351a49f8973d\\classes.dex
+base.1=C\:\\Users\\ANGGA\\StudioProjects\\Broducation\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_bf8a7ab80505ae7f303bfb28e2ca351a49f8973d
+file.0=C\:\\Users\\ANGGA\\StudioProjects\\Broducation\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_46045692eb9c6ad6e8d4e1e09b7f52f68a393322\\classes.dex

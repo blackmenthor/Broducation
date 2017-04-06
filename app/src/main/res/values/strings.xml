@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">Broducation</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email atau Handphone</string>
+    <string name="prompt_password">Kata Sandi</string>
+    <string name="action_sign_in">MASUK</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <string-array name="spinner_tingkat">
+        <item>Kelas TK/PAUD</item>
+        <item>Kelas I</item>
+        <item>Kelas II</item>
+        <item>Kelas III</item>
+        <item>Kelas IV</item>
+        <item>Kelas V</item>
+        <item>Kelas VI</item>
+        <item>Kelas VII</item>
+        <item>Kelas VIII</item>
+        <item>Kelas IX</item>
+        <item>Kelas X IPA</item>
+        <item>Kelas X IPS</item>
+        <item>Kelas XI IPA</item>
+        <item>Kelas XI IPS</item>
+        <item>Kelas XII IPA</item>
+        <item>Kelas XII IPS</item>
+        <item>S1</item>
+        <item>S2</item>
+        <item>S3</item>
+        <item>Umum</item>
+        <item>Kelas X SMK</item>
+        <item>Kelas XI SMK</item>
+        <item>Kelas XII SMK</item>
+    </string-array>
+
+    <string-array name="TKPAUD">
+        <item>Kelas TK/PAUD</item>
+    </string-array>
+    <string-array name="SD">
+        <item>Kelas I</item>
+        <item>Kelas II</item>
+        <item>Kelas III</item>
+        <item>Kelas IV</item>
+        <item>Kelas V</item>
+        <item>Kelas VI</item>
+    </string-array>
+    <string-array name="SMP">
+        <item>Kelas VII</item>
+        <item>Kelas VIII</item>
+        <item>Kelas IX</item>
+    </string-array>
+    <string-array name="SMA">
+        <item>Kelas X IPA</item>
+        <item>Kelas X IPS</item>
+        <item>Kelas XI IPA</item>
+        <item>Kelas XI IPS</item>
+        <item>Kelas XII IPA</item>
+        <item>Kelas XII IPS</item>
+    </string-array>
+    <string-array name="Mahasiswa">
+        <item>S1</item>
+        <item>S2</item>
+        <item>S3</item>
+        <item>Umum</item>
+    </string-array>
+    <string-array name="SMK">
+        <item>Kelas X SMK</item>
+        <item>Kelas XI SMK</item>
+        <item>Kelas XII SMK</item>
+    </string-array>
+
+</resources>
